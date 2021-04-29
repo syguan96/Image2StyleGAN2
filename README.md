@@ -4,7 +4,7 @@ This is an unofficial implementation.
 
 Dirfferences from the official Image2StyleGAN
 1. Reframe it to optimizing in StyleGAN v2.
-2. optimize the shift w+ code from the mean w+. 
+2. Optimize the shift w+ code from the mean w+. 
 
 ## Setup
 - **Requirements**   
