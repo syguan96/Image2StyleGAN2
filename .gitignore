@@ -1,1 +1,3 @@
 *.pt
+.vscode
+__pycache__
