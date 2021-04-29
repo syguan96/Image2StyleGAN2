@@ -1,13 +1,13 @@
 # Image2StyleGAN
 
-This is an unofficial reimplementation. 
+This is an unofficial implementation. 
 
 Dirfferences from the official Image2StyleGAN
 1. Reframe it to optimizing in StyleGAN v2.
 2. optimize the shift w+ code from the mean w+. 
 
 ## Setup
-- **Requirements**
+- **Requirements**   
 ```
 Pytorch 1.4.0
 Tensorflow 1.14
@@ -16,7 +16,7 @@ requests
 tqdm
 ```
 
-- **StyleGAN2-Pytorch**
+- **StyleGAN2-Pytorch**   
 Please First replace `dnnlib` of the official stylegan2 code with this in my repo. And then convert model as the guidence of [stylegan2-pytorch](https://github.com/rosinality/stylegan2-pytorch).
 
 ## Get Start.
