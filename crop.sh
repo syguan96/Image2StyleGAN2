@@ -1,0 +1,1 @@
+python utils/align_faces_parallel.py --num_threads 1 --root_path images

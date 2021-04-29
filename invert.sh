@@ -1,0 +1,1 @@
+python invert.py --expname exp1 --imagename images_crops/202599.jpg
