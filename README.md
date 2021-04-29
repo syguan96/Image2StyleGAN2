@@ -33,4 +33,6 @@ Please First replace `dnnlib` of the official stylegan2 code with this in my rep
     
 
 ### Refernces
-1. psp
+We benifit from some great works.
+1. [pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel)
+2. [stylegan2-pytorch](https://github.com/rosinality/stylegan2-pytorch)
