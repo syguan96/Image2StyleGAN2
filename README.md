@@ -1,6 +1,6 @@
 # Image2StyleGAN
 
-This is an unofficial implementation. 
+This is an unofficial implementation. 🌟 is welcome.
 
 Dirfferences from the official Image2StyleGAN
 1. Reframe it to optimizing in StyleGAN v2.
